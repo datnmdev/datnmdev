@@ -48,4 +48,8 @@ I am currently a final year student at the Posts and Telecommunications Institut
   <img src="./svgs/eclipse.svg" alt="eclipse" title="eclipse" width="40" height="40"/>
   <img src="./svgs/apache-netbeans.svg" alt="apache-netbeans" title="apache-netbeans" width="40" height="40"/>
 </p>
+
+## Leetcode
+<!-- Leetcode -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/datnmdev?theme=dark&font=Lato&ext=activity)
 </div>
