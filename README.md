@@ -18,32 +18,33 @@ I am currently a final year student at the Posts and Telecommunications Institut
 
 ## 📚 Language and Tools
 <p align="left">
-  <img src="./svgs/javascript.svg" style="object-fit:center;object-position:center;" alt="git" width="40" height="40"/>
-  <img src="./svgs/express.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/nodejs.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/mysql.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/mongodb.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/sql.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/redis.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/rabbitmq.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/react.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/html.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/css.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/redux.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/tailwind-css.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/docker.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/jenkins.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/java.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/spring-boot.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/android.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/c.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/c++.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/git.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/github.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/gitlab.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/postman.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/visual-studio-code.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/eclipse.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
-  <img src="./svgs/apache-netbeans.svg" alt="git" style="object-fit:center;object-position:center;" width="40" height="40"/>
+  <img src="./svgs/javascript.svg" alt="javascript" title="javascript" width="40" height="40"/>
+  <img src="./svgs/nodejs.svg" alt="nodejs" title="nodejs" width="40" height="40"/>
+  <img src="./svgs/express.svg" alt="expressjs" title="expressjs" width="40" height="40"/>
+  <img src="./svgs/mysql.svg" alt="mysql" title="mysql" width="40" height="40"/>
+  <img src="./svgs/mongodb.svg" alt="mongodb" title="mongodb" width="40" height="40"/>
+  <img src="./svgs/sql.svg" alt="sql" title="sql" width="40" height="40"/>
+  <img src="./svgs/redis.svg" alt="redis" title="redis" width="40" height="40"/>
+  <img src="./svgs/rabbitmq.svg" alt="rabbitmq" title="rabbitmq" width="40" height="40"/>
+  <img src="./svgs/react.svg" alt="react" title="react" width="40" height="40"/>
+  <img src="./svgs/html.svg" alt="html" title="html" width="40" height="40"/>
+  <img src="./svgs/css.svg" alt="css" title="css" width="40" height="40"/>
+  <img src="./svgs/redux.svg" alt="redux" title="css" width="40" height="40"/>
+  <img src="./svgs/tailwind-css.svg" alt="tailwindCSS" title="tailwindCSS" width="40" height="40"/>
+  <img src="./svgs/bootstrap.svg" alt="bootstrapp" title="bootstrap" width="40" height="40"/>
+  <img src="./svgs/docker.svg" alt="docker" title="docker" width="40" height="40"/>
+  <img src="./svgs/jenkins.svg" alt="jenkins" title="jenkins" width="40" height="40"/>
+  <img src="./svgs/java.svg" alt="java" title="java" width="40" height="40"/>
+  <img src="./svgs/spring-boot.svg" alt="spring-boot" title="spring-boot" width="40" height="40"/>
+  <img src="./svgs/android.svg" alt="android" title="android" width="40" height="40"/>
+  <img src="./svgs/c.svg" alt="c" title="c" width="40" height="40"/>
+  <img src="./svgs/c++.svg" alt="c++" title="c++" width="40" height="40"/>
+  <img src="./svgs/git.svg" alt="git" title="git" width="40" height="40"/>
+  <img src="./svgs/github.svg" alt="github" title="github" width="40" height="40"/>
+  <img src="./svgs/gitlab.svg" alt="gitlab" title="gitlab" width="40" height="40"/>
+  <img src="./svgs/postman.svg" alt="postman" title="postman" width="40" height="40"/>
+  <img src="./svgs/visual-studio-code.svg" alt="VSCode" title="VSCode" width="40" height="40"/>
+  <img src="./svgs/eclipse.svg" alt="eclipse" title="eclipse" width="40" height="40"/>
+  <img src="./svgs/apache-netbeans.svg" alt="apache-netbeans" title="apache-netbeans" width="40" height="40"/>
 </p>
 </div>
