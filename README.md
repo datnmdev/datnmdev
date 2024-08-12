@@ -29,7 +29,7 @@ I am currently a final year student at the Posts and Telecommunications Institut
   <img src="./svgs/react.svg" alt="react" title="react" width="40" height="40"/>
   <img src="./svgs/html.svg" alt="html" title="html" width="40" height="40"/>
   <img src="./svgs/css.svg" alt="css" title="css" width="40" height="40"/>
-  <img src="./svgs/redux.svg" alt="redux" title="css" width="40" height="40"/>
+  <img src="./svgs/redux.svg" alt="redux" title="redux" width="40" height="40"/>
   <img src="./svgs/tailwind-css.svg" alt="tailwindCSS" title="tailwindCSS" width="40" height="40"/>
   <img src="./svgs/bootstrap.svg" alt="bootstrapp" title="bootstrap" width="40" height="40"/>
   <img src="./svgs/docker.svg" alt="docker" title="docker" width="40" height="40"/>
