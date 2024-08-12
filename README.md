@@ -49,7 +49,7 @@ I am currently a final year student at the Posts and Telecommunications Institut
   <img src="./svgs/apache-netbeans.svg" alt="apache-netbeans" title="apache-netbeans" width="40" height="40"/>
 </p>
 
-## <img src="./svgs/leetcode.svg" alt="javascript" title="javascript" width="40" height="40"/>Leetcode
+## <img src="./svgs/leetcode.svg" alt="javascript" title="javascript" width="26"/> Leetcode
 <!-- Leetcode -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/datnmdev?theme=dark&font=Lato&ext=activity)
 </div>
