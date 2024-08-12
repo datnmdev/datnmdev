@@ -39,6 +39,7 @@ I am currently a final year student at the Posts and Telecommunications Institut
   <img src="./svgs/android.svg" alt="android" title="android" width="40" height="40"/>
   <img src="./svgs/c.svg" alt="c" title="c" width="40" height="40"/>
   <img src="./svgs/c++.svg" alt="c++" title="c++" width="40" height="40"/>
+  <img src="./svgs/arduino.svg" alt="c++" title="c++" width="40" height="40"/>
   <img src="./svgs/git.svg" alt="git" title="git" width="40" height="40"/>
   <img src="./svgs/github.svg" alt="github" title="github" width="40" height="40"/>
   <img src="./svgs/gitlab.svg" alt="gitlab" title="gitlab" width="40" height="40"/>
