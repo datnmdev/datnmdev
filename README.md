@@ -1,6 +1,6 @@
 <!-- Title The Full Name -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=500&color=F70ADA&center=true&vCenter=true&width=435&lines=Nguyen+Minh+Dat;Web+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=32&pause=500&color=F70ADA&center=true&vCenter=true&width=435&lines=Nguyen+Minh+Dat;Web+Developer;Embbeded+Developer;Mobile+Developer;Desktop+Developer" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
