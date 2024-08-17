@@ -52,4 +52,8 @@ I am currently a final year student at the Posts and Telecommunications Institut
 ## <img src="./svgs/leetcode.svg" alt="javascript" title="javascript" width="26"/> Leetcode
 <!-- Leetcode -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/datnmdev?theme=dark&font=Lato&ext=activity)
+<ul>
+  <li>My solutions repository: https://github.com/datnmdev/leetcode</li>
+  <li>Leetcode profile: https://leetcode.com/u/datnmdev/</li>
+</ul>
 </div>
